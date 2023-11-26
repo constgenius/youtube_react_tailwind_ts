@@ -2,6 +2,8 @@
 
 Youtube Tutorial Link: https://youtu.be/TYP_j74A2P8
 
+Live Preview: https://youtubereacttailwindts.vercel.app/
+
 ![Youtube Clone](public/YoutubeClone.png)
 
 The YouTube Home Page Clone with React, Tailwind CSS, and TypeScript is a focused project that recreates the iconic landing page of the YouTube platform. Leveraging the power of React for dynamic UI components, Tailwind CSS for rapid and responsive styling, and TypeScript for type-safe code, this clone provides developers with an opportunity to dissect and recreate the familiar YouTube home page experience.
