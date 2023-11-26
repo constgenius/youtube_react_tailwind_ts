@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import PageHeader from './layouts/PageHeader'
 import { CategoryPills } from './components/CategoryPills'
 import { categories, videos } from './data/home'
